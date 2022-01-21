@@ -1,0 +1,136 @@
+country,level,all,female,male
+Australia,lower_secondary,1291470,617375,674095
+Australia,primary,2015017,979157,1035860
+Australia,tertiary,1276488,715976.0851,560511.9149
+Australia,total,5573926,2776238.085,2797687.915
+Australia,upper_secondary,990951,463730,527221
+Austria,lower_secondary,360794,175652,185142
+Austria,primary,328015,158826,169189
+Austria,tertiary,350187,185961.0882,164225.9118
+Austria,total,1421911,700049.0882,721861.9118
+Austria,upper_secondary,382915,179610,203305
+Belgium,lower_secondary,277173,132426,144747
+Belgium,primary,731761,357569,374192
+Belgium,tertiary,445309,245814.1884,199494.8116
+Belgium,total,1982950,991831.1884,991118.8116
+Belgium,upper_secondary,528707,256022,272685
+Canada,lower_secondary,799170,387302,411868
+Canada,primary,2168022,1057029,1110993
+Canada,tertiary,0,0,0
+Canada,total,4779641,2316539,2463102
+Canada,upper_secondary,1812449,872208,940241
+Colombia,lower_secondary,3681469,1860554,1820915
+Colombia,primary,5084972,2466264,2618708
+Colombia,tertiary,1674420,863366.5591,811053.4409
+Colombia,total,11839124,5938347.559,5900776.441
+Colombia,upper_secondary,1398263,748163,650100
+Costa Rica,lower_secondary,286750,139689,147061
+Costa Rica,primary,520609,251859,268750
+Costa Rica,tertiary,0,0,0
+Costa Rica,total,934295,458503,475792
+Costa Rica,upper_secondary,126936,66955,59981
+Czech Republic,lower_secondary,378506,183743,194763
+Czech Republic,primary,463357,224854,238503
+Czech Republic,tertiary,437354,248557.8192,188796.1808
+Czech Republic,total,1737558,882060.8192,855497.1808
+Czech Republic,upper_secondary,458341,224906,233435
+Denmark,lower_secondary,248114,121821,126293
+Denmark,primary,403344,196972,206372
+Denmark,tertiary,240536,139723.0641,100812.9359
+Denmark,total,1148085,583462.0641,564622.9359
+Denmark,upper_secondary,256091,124946,131145
+Finland,lower_secondary,192947,94285,98662
+Finland,primary,347060,169172,177888
+Finland,tertiary,303554,163461.8316,140092.1684
+Finland,total,1077324,546799.8316,530524.1684
+Finland,upper_secondary,233763,119881,113882
+France,lower_secondary,3248843,1580525,1668318
+France,primary,4159086,2018301,2140785
+France,tertiary,2245097,1233814.954,1011282.046
+France,total,12277286,6132218.954,6145067.046
+France,upper_secondary,2624260,1299578,1324682
+Germany,lower_secondary,4917106,2381740,2535366
+Germany,primary,3067521,1491862,1575659
+Germany,tertiary,0,0,0
+Germany,total,10731276,5131383,5599893
+Germany,upper_secondary,2746649,1257781,1488868
+Greece,lower_secondary,352548,166552,185996
+Greece,primary,642639,311921,330718
+Greece,tertiary,641844,319962.8428,321881.1572
+Greece,total,2001084,971627.8428,1029456.157
+Greece,upper_secondary,364053,173192,190861
+Hungary,lower_secondary,418542,201012,217530
+Hungary,primary,387969,187827,200142
+Hungary,tertiary,388950,219837.5062,169112.4938
+Hungary,total,1681767,845848.5062,835918.4938
+Hungary,upper_secondary,486306,237172,249134
+Iceland,lower_secondary,13361,6469,6892
+Iceland,primary,29568,14572,14996
+Iceland,tertiary,18051,11516.44801,6534.55199
+Iceland,total,83242,43632.44801,39609.55199
+Iceland,upper_secondary,22262,11075,11187
+Ireland,lower_secondary,182773,89375,93398
+Ireland,primary,506400,247179,259221
+Ireland,tertiary,194009,101690.3883,92318.6117
+Ireland,total,1036873,516704.3883,520168.6117
+Ireland,upper_secondary,153691,78460,75231
+Israel,lower_secondary,366934,180740,186194
+Israel,primary,807424,393923,413501
+Israel,tertiary,360378,200309.5678,160068.4322
+Israel,total,1876142,943175.5678,932966.4322
+Israel,upper_secondary,341406,168203,173203
+Japan,lower_secondary,3639793,1777203,1862590
+Japan,primary,7098862,3460790,3638072
+Japan,tertiary,3836314,1762458.94,2073855.06
+Japan,total,18231506,8787213.94,9444292.06
+Japan,upper_secondary,3656537,1786762,1869775
+Mexico,lower_secondary,7626821,3921124,3705697
+Mexico,primary,14906476,7285185,7621291
+Mexico,tertiary,2847376,1424254.018,1423121.982
+Mexico,total,29435382,14699557.02,14735824.98
+Mexico,upper_secondary,4054709,2068994,1985715
+New Zealand,lower_secondary,249114,120596,128518
+New Zealand,primary,348492,170275,178217
+New Zealand,tertiary,266232,154694.0832,111537.9168
+New Zealand,total,1126919,580309.0832,546609.9168
+New Zealand,upper_secondary,263081,134744,128337
+Norway,lower_secondary,191875,93089,98786
+Norway,primary,424052,207226,216826
+Norway,tertiary,224706,136706.811,87999.189
+Norway,total,1083843,553403.811,530439.189
+Norway,upper_secondary,243210,116382,126828
+Portugal,lower_secondary,379229,183006,196223
+Portugal,primary,733515,352452,381063
+Portugal,tertiary,383627,204529.3007,179097.6993
+Portugal,total,1837830,913844.3007,923985.6993
+Portugal,upper_secondary,341459,173857,167602
+Republic of Korea,lower_secondary,1980847,939794,1041053
+Republic of Korea,primary,3306192,1577654,1728538
+Republic of Korea,tertiary,3269509,1287284.371,1982224.629
+Republic of Korea,total,10526201,4725946.371,5800254.629
+Republic of Korea,upper_secondary,1969653,921214,1048439
+Slovakia,lower_secondary,280288,135533,144755
+Slovakia,primary,212421,103114,109307
+Slovakia,tertiary,234526,140185.7486,94340.2514
+Slovakia,total,996707,512954.7486,483752.2514
+Slovakia,upper_secondary,269472,134122,135350
+Sweden,lower_secondary,336819,163288,173531
+Sweden,primary,0,0,0
+Sweden,tertiary,455025,270348.4009,184676.5991
+Sweden,total,1186298,624219.4009,562078.5991
+Sweden,upper_secondary,394454,190583,203871
+United Kingdom of Great Britain and Northern Ireland,lower_secondary,2457607,1176491,1281116
+United Kingdom of Great Britain and Northern Ireland,primary,4421903,2152047,2269856
+United Kingdom of Great Britain and Northern Ireland,tertiary,2479197,1402409.565,1076787.435
+United Kingdom of Great Britain and Northern Ireland,total,12439329,6263305.565,6176023.435
+United Kingdom of Great Britain and Northern Ireland,upper_secondary,3080622,1532358,1548264
+United States of America,lower_secondary,12491507,6117921,6373586
+United States of America,primary,24393002,11867275,12525727
+United States of America,tertiary,20427709,11658262.07,8769446.93
+United States of America,total,69013497,35381774.07,33631722.93
+United States of America,upper_secondary,11701279,5738316,5962963
+All,lower_secondary,46650400,22947305,23703095
+All,primary,77507679,37703305,39804374
+All,tertiary,43000398,23091125.65,19909272.35
+All,total,206059996,102820949.7,103239046.3
+All,upper_secondary,38901519,19079214,19822305

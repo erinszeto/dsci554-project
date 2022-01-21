@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>DSCI 554 Assignment 1</title>
+    <script src="../node_modules/d3/dist/d3.min.js"></script>
+    <link rel="stylesheet" href="syle-1.css">
+</head>
+
+<body>
+    <h1> DSCI 554 Project: Education and Majors</h1>
+
+    <h3>Global Student Population in Teritary Programs:</h3>
+    <select id="d3-dropdown">
+        <option value="all">All</option>
+        <option value="Australia">Australia</option>
+        <option value="Austria">Austria</option>
+        <option value="Belgium">Belgium</option>
+        <option value="Colombia">Colombia</option>
+        <option value="Czech Republic">Czech Republic</option>
+        <option value="Denmark">Denmark</option>
+        <option value="Finland">Finland</option>
+        <option value="France">France</option>
+        <option value="Greece">Greece</option>
+        <option value="Hungary">Hungary</option>
+        <option value="Iceland">Iceland</option>
+        <option value="Israel">Israel</option>
+        <option value="Japan">Japan</option>
+        <option value="Mexico">Mexico</option>
+        <option value="New Zealand">New Zealand</option>
+        <option value="Norway">Norway</option>
+        <option value="Portugal">Portugal</option>
+        <option value="Republic of Korea">Republic of Korea</option>
+        <option value="Slovakia">Slovakia</option>
+        <option value="Sweden">Sweden</option>
+        <option value="United Kingdom of Great Britain and Northern Ireland">United Kingdom of Great Britain and Northern Ireland</option>
+        <option value="United States of America">United States of America</option>
+    </select>
+
+    <p id="selected-dropdown">
+
+    </p>
+    <svg width="600" height="400" id="test"></svg>
+    <script type="text/javascript" src="global-population.js"></script>
+
+ 
+    <svg width="700" height="450" id="bubble"></svg>
+    <script type="text/javascript" src="bubble-majors.js"></script>
+            <div class="commands">
+            <p class="alert" id="info3"></p>
+        </div>
+
+
+    <h3>US STEM Majors by Gender Distribution:</h3>
+
+    <div class="commands">
+        <span class="reset" id="all">Reset</span>
+    </div>
+
+    <div class="commands">
+        <span class="filter" id="engineering">Engineering</span>
+        <span class="filter" id="biology">Biology & Life Science</span>
+        <span class="filter" id="health">Health</span>
+        <span class="filter" id="math">Computers & Mathematics</span>
+        <span class="filter" id="physical">Physical Sciences</span>
+    </div>
+
+    <svg width="1000" height="800" id="bar"></svg>
+    <script type="text/javascript" src="majors_bar.js"></script>
+
+
+
+
+</body>
+
+</html>
